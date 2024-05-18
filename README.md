@@ -38,11 +38,8 @@ import numpy as np
   plt.show()
 ```
 ## Output
-</br>
-</br>
-</br>
-</br>
-![expt 09 maths output](https://github.com/Nakul1411/Univariate-Linear-Regression/assets/138849780/2ccfcbbd-5745-41c9-b79a-1f8f9ff48569)
+![expt 09 maths output](https://github.com/Nakul1411/Univariate-Linear-Regression/assets/138849780/3444e46a-37c0-485a-848f-37751cee4328)
+
 
 ![WhatsApp Image 2024-05-18 at 11 22 03_bc38ff79](https://github.com/Nakul1411/Univariate-Linear-Regression/assets/138849780/0500fac6-9c20-4904-9a36-c1d4e41335d3)
 
